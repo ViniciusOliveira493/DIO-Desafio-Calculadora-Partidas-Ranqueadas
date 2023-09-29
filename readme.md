@@ -1,4 +1,4 @@
-# Calculadora de partidas Rankeadas
+# Calculadora de partidas Ranqueadas
 
 Desafio realizado durante o Bootcamp Potência Tech iFood - Programação do Zero em Setembro de 2023
 
